@@ -90,3 +90,6 @@ db.sqlite3
 
 ### visual studio code ###
 .vscode
+
+### SQL Folder ########
+sql/
